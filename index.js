@@ -8,7 +8,7 @@
 // function getMyinfo(name,age,job){
 //     return 'Mening ismim ${name}, yoshim${age}, kasbim${job}';
 // }
-// console.log(getMyinfo("Sanjar"," 24 da"," Dasturchi"));
+// console.log(getMyinfo("ABDULLOH"," 14 da"," Dasturchi"));
 // getMyinfo()
 
 function qoshish(a,b){
